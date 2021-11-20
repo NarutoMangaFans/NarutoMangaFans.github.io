@@ -9,8 +9,8 @@
 
 <channel>
 	<title>sand &#8211; Hội Những Người Thích Truyện Tranh Naruto</title>
-	<atom:link href="http://naruto.meoki.net/author/sand/feed/" rel="self" type="application/rss+xml" />
-	<link>http://naruto.meoki.net</link>
+	<atom:link href="https://naruto.meoki.net/author/sand/feed/" rel="self" type="application/rss+xml" />
+	<link>https://naruto.meoki.net</link>
 	<description>NarutoMangaFans</description>
 	<lastBuildDate>Sat, 20 Nov 2021 14:44:29 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>http://naruto.meoki.net/wp-content/uploads/2021/11/cropped-icons8-naruto-sign-480-32x32.png</url>
+	<url>https://naruto.meoki.net/wp-content/uploads/2021/11/cropped-icons8-naruto-sign-480-32x32.png</url>
 	<title>sand &#8211; Hội Những Người Thích Truyện Tranh Naruto</title>
-	<link>http://naruto.meoki.net</link>
+	<link>https://naruto.meoki.net</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
