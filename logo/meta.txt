@@ -2,6 +2,6 @@
     <meta property="og:type" content="article">
     <meta property="og:title" content="Hội Những Người Thích Truyện Tranh Naruto - NarutoMangaFans">
     <meta property="og:url" content="https://naruto.meoki.net">
-    <meta property="og:image" content="https://raw.githubusercontent.com/meokisama/alonelycomet/master/logo/og3.jpg">
-    <meta property="og:description" content="Đế chế của những kẻ mộng mơ, chúng tôi viết về mọi thứ trong ngành công nghiệp 2D này... Empire of some wibus come from the fairy tales...">
+    <meta property="og:image" content="https://raw.githubusercontent.com/NarutoMangaFans/NarutoMangaFans.github.io/main/logo/og.jpg">
+    <meta property="og:description" content="Website đăng truyện của NarutoMangaFans, nhưng đã dừng hoạt động...">
     
