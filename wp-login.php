@@ -9,7 +9,7 @@
 <script type="text/javascript" src="https://naruto.meoki.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script type="text/javascript" id="login-with-ajax-js-extra">
 /*  */
-var LWA = {"ajaxurl":"http:\/\/naruto.meoki.net\/wp-admin\/admin-ajax.php"};
+var LWA = {"ajaxurl":"https:\/\/naruto.meoki.net\/wp-admin\/admin-ajax.php"};
 /*  */
 </script>
 <script type="text/javascript" src="https://naruto.meoki.net/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js?ver=3.1.11" id="login-with-ajax-js"></script>
@@ -80,7 +80,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 			</div>
 	<script type="text/javascript" id="zxcvbn-async-js-extra">
 /*  */
-var _zxcvbnSettings = {"src":"http:\/\/naruto.meoki.net\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"https:\/\/naruto.meoki.net\/wp-includes\/js\/zxcvbn.min.js"};
 /*  */
 </script>
 <script type="text/javascript" src="https://naruto.meoki.net/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
@@ -113,7 +113,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/naruto\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://naruto.meoki.net/wp-includes/js/wp-util.min.js?ver=5.8.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"b3ee49f758"};
+var userProfileL10n = {"user_id":"0","nonce":"f9d543d74a"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
